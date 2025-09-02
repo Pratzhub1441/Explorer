@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "State Bank of India (SBI)" },
+  { "id": 2, "name": "HDFC Bank" },
+  { "id": 3, "name": "ICICI Bank" },
+  { "id": 4, "name": "Axis Bank" },
+  { "id": 5, "name": "Kotak Mahindra Bank" },
+  { "id": 6, "name": "Punjab National Bank (PNB)" },
+  { "id": 7, "name": "Bank of Baroda" },
+  { "id": 8, "name": "Canara Bank" },
+  { "id": 9, "name": "Union Bank of India" },
+  { "id": 10, "name": "IndusInd Bank" },
+  { "id": 11, "name": "Yes Bank" },
+  { "id": 12, "name": "IDFC First Bank" }
+]

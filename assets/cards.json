@@ -1,0 +1,12 @@
+[
+  { "name": "Visa Debit Card" },
+  { "name": "Visa Credit Card" },
+  { "name": "Mastercard Debit Card" },
+  { "name": "Mastercard Credit Card" },
+  { "name": "RuPay Debit Card" },
+  { "name": "RuPay Credit Card" },
+  { "name": "American Express Credit Card" },
+  { "name": "Maestro Debit Card" },
+  { "name": "Prepaid Card" },
+  { "name": "UPI Linked Card" }
+]
